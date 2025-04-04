@@ -91,14 +91,14 @@ Using the **distance table from Task 1**, we solved the shortest complete visiti
 ## How to Run
 
 1. Launch Jupyter:
-   ```bash
+```bash
    jupyter notebook homework3.ipynb
 ```
 
 2. Step through cells in order (Task 1 first, then Task 2).
 
 3. Ensure dependencies:
-```
+```bash
 pip install numpy matplotlib pandas networkx scipy imageio
 ```
 
