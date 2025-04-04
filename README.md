@@ -42,7 +42,7 @@ This project is the implementation of **Homework 3** for ME5413: Autonomous Mobi
 
 ```
 
-> 🔍 `third_party/PathPlanning` is based on the [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) project for reference and experimentation purposes.
+> `third_party/PathPlanning` is based on the [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) project for reference and experimentation purposes.
 
 ---
 
@@ -96,13 +96,11 @@ Using the **distance table from Task 1**, we solved the shortest complete visiti
 ```
 
 2. Step through cells in order (Task 1 first, then Task 2).
-    
+
 3. Ensure dependencies:
-    
-    ```bash
-    pip install numpy matplotlib pandas networkx scipy imageio
-    ```
-    
+```
+pip install numpy matplotlib pandas networkx scipy imageio
+```
 
 ---
 
